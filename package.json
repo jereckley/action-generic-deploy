@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "firebase-hosting-preview-action",
+  "name": "firebase-deplay-action",
   "main": "bin/action.min.js",
   "source": "src/index.ts",
   "devDependencies": {
@@ -36,5 +36,5 @@
       "pre-commit": "pretty-quick --staged && npm run build"
     }
   },
-  "version": "0.8.0"
+  "version": "0.0.1"
 }
